@@ -4,7 +4,7 @@ Hi, my name is Clint Johnson. I am passionate about AI🧠 and software design�
 - 🎓 Currently doing my Masters in Advanced Computer Science, Artificial Intelligence from the University of Manchester, UK
 - 💼 Previously at Deloitte & Dell Technologies
 - 🔭 Looking for opportunities in AI and software development
-- 🌱 Currently learning deep reinforcement learning
+- 🌱 Currently learning deep reinforcement learning and its application in systemic trading.
 
 
 I love throwing myself into new environments and challenging myself to learn, adapt and grow.
