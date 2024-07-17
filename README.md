@@ -15,6 +15,7 @@ Java 17 | Spring | Python | Pytorch | Javascript | React
 #### Tools
 Docker | Kubernetes | AWS | Git  
 
+I love throwing myself into new environments and challenging myself to learn, adapt and grow.
 <!--
 **clintjohnsn/clintjohnsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
