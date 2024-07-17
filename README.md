@@ -6,6 +6,9 @@ Hi, my name is Clint Johnson. I am passionate about AI🧠 and software design�
 - 🔭 Looking for opportunities in AI and software development
 - 🌱 Currently learning deep reinforcement learning
 
+
+I love throwing myself into new environments and challenging myself to learn, adapt and grow.
+
 #### Skills
 Back-end Development |  Machine Learning | Solution Architecture | Microservices | IAC | Leadership
 
@@ -15,7 +18,6 @@ Java 17 | Spring | Python | Pytorch | Javascript | React
 #### Tools
 Docker | Kubernetes | AWS | Git  
 
-I love throwing myself into new environments and challenging myself to learn, adapt and grow.
 <!--
 **clintjohnsn/clintjohnsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
