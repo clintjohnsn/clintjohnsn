@@ -1,13 +1,12 @@
 ## Hi there 👋
-Hi, my name is Clint Johnson. I am a software engineer based out of Manchester, UK. I am passionate about AI🧠 and software design🧑‍💻.
+Hi, I am Clint Johnson. I am a software engineer based out of Manchester, UK. 
 
-- 🎓 Currently doing my Masters in Advanced Computer Science, Artificial Intelligence from the University of Manchester, UK
-- 💼 Previously at Deloitte & Dell Technologies
-- 🌱 Currently working on deep reinforcement learning based trading strategies📈
+I love throwing myself into new environments and challenging myself to learn, adapt and grow🪴. I am passionate about AI🧠 and software design🧑‍💻.
+
+- 🎓 Currently doing my **Masters** in Advanced Computer Science, Artificial Intelligence from the University of Manchester, UK
+- 💼 Previously at **Deloitte** & **Dell Technologies**
+- 🌱 Currently working on **deep reinforcement learning** based trading strategies📈
 - 🔭 Open to opportunities in AI and software engineering. Let's connect!
-
-
-I love throwing myself into new environments and challenging myself to learn, adapt and grow.
 
 #### Skills
 Back-end Development | Software Design | Machine Learning | Solution Architecture | Microservices | IAC  | Deep Learning | Reinforcement Learning | Quantitative Analysis | Research
