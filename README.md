@@ -6,16 +6,16 @@ I love throwing myself into new environments and challenging myself to learn, ad
 - 🎓 Currently doing my **Masters** in Advanced Computer Science, Artificial Intelligence from the University of Manchester, UK
 - 💼 Previously at **Deloitte** & **Dell Technologies**
 - 🌱 Currently working on **deep reinforcement learning** based trading strategies📈
-- 🔭 Open to opportunities in AI and software engineering. Let's connect!
+- 🔭 Open to opportunities in AI and software engineering. Let's connect!📧
 
 #### Skills
-Back-end Development | Software Design | Machine Learning | Solution Architecture | Microservices | IAC  | Deep Learning | Reinforcement Learning | Quantitative Analysis | Research
+Back-end Development | Software Design | Machine Learning | Solution Architecture | Microservices | IaC | Reinforcement Learning | Quantitative Analysis | Research
 
 #### I code with
 Java 17 | Spring | Python | Pytorch | Javascript 
 
 #### Tools
-Docker | Kubernetes | AWS | Git | Jenkins | Datadog  
+Docker | Kubernetes | AWS | Git | Terraform | ArgoCD | Datadog  
 
 <!--
 **clintjohnsn/clintjohnsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
