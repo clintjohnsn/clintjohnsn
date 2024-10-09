@@ -9,13 +9,13 @@ I love throwing myself into new environments and challenging myself to learn, ad
 - 🔭 Open to opportunities in AI and software engineering. Let's connect!📧
 
 #### Skills
-Back-end Development | Software Design | Machine Learning | Solution Architecture | Microservices | IaC | Reinforcement Learning | Quantitative Analysis | Research
+Back-end Development | Software Design | Solution Architecture | Microservices | IaC |  Distributed Systems | Reinforcement Learning | Deep Learning | Research
 
 #### I code with
 Java 17 | Spring | Python | Pytorch | Javascript 
 
 #### Tools
-Docker | Kubernetes | AWS | Git | Terraform | ArgoCD | Datadog  
+Docker | Kubernetes | AWS | Git | Terraform | ArgoCD   
 
 <!--
 **clintjohnsn/clintjohnsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
