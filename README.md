@@ -6,7 +6,7 @@ I love throwing myself into new environments and challenging myself to learn, ad
 - 🎓 Currently doing my **Masters** in Advanced Computer Science, Artificial Intelligence from the University of Manchester, UK
 - 💼 Previously at **Deloitte** & **Dell**
 - 🌱 Currently working on **deep reinforcement learning** based trading strategies📈
-- 🔭 Open to opportunities in software engineering and development. Let's connect!📧
+- 🔭 Open to opportunities in software engineering. Let's connect!📧
 
 #### Skills
 Back-end Development | Software Design | Solution Architecture | Microservices | IaC |  Distributed Systems | Reinforcement Learning | Deep Learning
