@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Clint. 
-I am a software engineer based out of Manchester, UK 🇬🇧. Actively seeking new opportunities in **Backend Development** and **AI Engineering**. Reach out if you have something exciting!
+I am a software engineer with over 6 years of experience based in Manchester, UK 🇬🇧. Actively seeking new opportunities in **Backend Development** and **AI Engineering**. Reach out if you have something exciting!
 
 #### I'm a pro at
 ![Back-end Development](https://img.shields.io/badge/Back--end%20Development%20⚙️-303F9F?style=for-the-badge)
