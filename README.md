@@ -11,9 +11,10 @@ I am a software engineer based out of Manchester, UK 🇬🇧.
 
 | Project Link | Description| Stack |
 |----------|----------|----------|
-| [pytchdeck](https://github.com/clintjohnsn/pytchdeck)  (*⚒️ In Progress*) | Pitch yourself to potential recruiters on your portfolio websites.  Agentic AI server. | FastAPI, LangGraph, OpenAI |
+| [pytchdeck](https://github.com/clintjohnsn/pytchdeck)  (*⚒️ In Progress*) | Agent workflow server. APIs to Pitch yourself to potential recruiters on your portfolio websites.| FastAPI, LangGraph, OpenAI |
+| [functional-langgraph-fastapi-starter](https://github.com/clintjohnsn/functional-langgraph-fastapi-starter) | A production-ready FastAPI starter template for building agentic GenAI applications. | FastAPI, LangGraph, Langfuse, PostgreSQL |
 |[rl-trader](https://github.com/clintjohnsn/rl-trader) | Multi-agent and group-agent based deep reinforcement learning algorithms for trading stocks, with a custom Gym environment.| Stable-Baselines3, PyTorch, Gym |
-| [FinRED-ml](https://github.com/clintjohnsn/FinRED-ml)| A traditional machine learning approach to relation extraction in the financial domain, achieving performance comparable to state-of-the-art deep learning methods | scikit-learn, nltk, spacy |
+| [FinRED-ml](https://github.com/clintjohnsn/FinRED-ml)| A traditional machine learning approach to relation extraction in the financial domain achieving performance comparable to state-of-the-art deep learning methods | scikit-learn, nltk, spacy |
 
 ## Project Archive
 
